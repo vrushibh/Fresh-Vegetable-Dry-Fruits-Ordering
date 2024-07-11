@@ -2,7 +2,6 @@
 Project Name: farm foods
 Year: 2022-2023
 Developers:
-
 Bhalodiya Vrushibh
 Kalariya Dhruvi
 🍅 Description
