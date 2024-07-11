@@ -39,7 +39,7 @@ Update the database configuration in the config.php file with your database cred
 Start the local server:
 
 Use XAMPP, WAMP, or any local server to host the project files.
-Access the web application:
+Access the web site:
 
 Open your web browser and navigate to http://localhost/fresh-vegetable-dry-fruits-ordering.
 🚀 Usage
