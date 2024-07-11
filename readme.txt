@@ -1,4 +1,4 @@
-🌽 Fresh Vegetable & Dry Fruits Ordering Web App
+🌽 Fresh Vegetable & Dry Fruits Ordering website
 Project Name: farm foods
 Year: 2022-2023
 Developers:
